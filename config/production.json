@@ -1,0 +1,6 @@
+{
+    "name": "vikesh-prduction",
+    "mail":{
+        "host":"production-mail-server"
+    }
+} 
